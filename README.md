@@ -31,9 +31,9 @@ Therefore, our goal is to be more clear, robust in many situations and to increa
 
 * Result : result files 
   
-* model : SRGAN model code 
-  - Pentomino.py : DQN model 
-  -  BPP.py : Baseline  
+* utils : SRGAN model code 
+  - Data Augmentation.ipynb : Data Augmentation file (Bright, Snow, Rain)
+  - LRR.ipynb : Convert car lincese letters to image
 
 
 ## Method
