@@ -73,7 +73,7 @@ The subjects were a total of 30 people, including 1 person in their teens, 26 pe
 As a result, our model performed better than baseline in visual metrics.
 
 <img src = 'Result/sr_result.png'>
-<img src = 'Result/result_with_baseline3.png'>
+<img src = 'Result/result_wth_baseline3.png'>
   
 ## Expected Outcomes
 
