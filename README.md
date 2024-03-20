@@ -31,10 +31,11 @@ Therefore, our goal is to be more clear, robust in many situations and to increa
 
 * Result : result files 
   
-* utils : SRGAN model code 
+* utils : Preprocessing & Postprocessing code 
   - Data Augmentation.ipynb : Data Augmentation file (Bright, Snow, Rain)
   - LRR.ipynb : Convert car lincese letters to image
-
+    
+* model : SRGAN model code 
 
 ## Method
 
