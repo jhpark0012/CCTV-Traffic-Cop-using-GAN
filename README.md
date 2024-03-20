@@ -15,6 +15,11 @@ So, to solve these problem, we proceeded the project that improving the image qu
 
 Therefore, our goal is to be more clear, robust in many situations and to increase the resolution in more detail than old ways.
 
+## Data
+* https://www.kaggle.com/datasets/andrewmvd/car-plate-detection/data 
+
+* https://data.caltech.edu/records/fmbpr-ezq86
+
 
 ## Role 
 | 박재현 | 구민| 전태성 | 박성욱
@@ -35,9 +40,7 @@ Therefore, our goal is to be more clear, robust in many situations and to increa
 
 We use car license image dataset total of 432 images. 
 
-(data : https://www.kaggle.com/datasets/andrewmvd/car-plate-detection/data , https://data.caltech.edu/records/fmbpr-ezq86)
-
-Second, data preprocessing. It is divided into select data, crop license plate, augmentation data. Among the collected data, we exclude unsuitable data for learning. Through this process, 341 data were selected.
+In data preprocessing, it is divided into select data, crop license plate, augmentation data. Among the collected data, we exclude unsuitable data for learning. Through this process, 341 data were selected.
 
 And we crop only the license plate to focus entirely on increasing the resolution of the license plate.
 
