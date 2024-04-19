@@ -24,7 +24,7 @@ Therefore, our goal is to be more clear, robust in many situations and to increa
 ## Role 
 | 박재현 | 구민| 전태성 | 박성욱
 |:---:|:---:|:---:|:---:|
-| SRGAN & Make evaluation metric| OCR | SRCNN | Bicubic |
+| Data Preprocessing & SRGAN & Make evaluation metric| OCR | SRCNN | Bicubic |
 
 
 ## File
